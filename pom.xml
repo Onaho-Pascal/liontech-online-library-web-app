@@ -76,13 +76,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>LION TECH ACADEMY Releases Nexus Repository</name>
-	      <url>http://51.20.190.233:8081/repository/Pascal-repo-release/</url>
+	      <url>http://51.20.190.233:8081/repository/Pascal-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>LION TECH ACADEMY Snapshot Nexus Repository </name>
-	      <url>http://51.20.190.233:8081/repository/Pascal-repo-snapshot/qaa</url>
+	      <url>http://51.20.190.233:8081/repository/Pascal-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
